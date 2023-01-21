@@ -1,0 +1,22 @@
+#titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  #descricao {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+  }
+
+  body {
+    background-color: cyan;
+  }
+
+  #gostos, #habilidades {
+    font-weight: bold; 
+    text-decoration: underline;
+  }
+
+  li {
+    line-height: 30px;
+  }
+
+  
