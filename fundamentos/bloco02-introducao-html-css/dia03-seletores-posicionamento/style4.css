@@ -1,0 +1,21 @@
+body {
+    background-color: cyan;
+    color: blue;
+}
+
+h1, p {
+    text-align: center;
+}
+
+li:hover {
+    background-color: green;
+}
+
+li:active {
+    color: white;
+}
+
+li {
+    list-style: none;
+    text-align: center;
+}
