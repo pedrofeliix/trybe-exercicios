@@ -1,5 +1,5 @@
-const a = 214;
-const b = 65;
+const a = 10;
+const b = 5;
 
 function adicao(a, b) { 
     return a + b;
